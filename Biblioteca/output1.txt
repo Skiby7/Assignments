@@ -1,0 +1,64 @@
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 2 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  978045 - George Orwell - Animal Farm (1/1)
+978006 - Harper Lee - To Kill a Mockingbird (2/2)
+987806 - J.K. Rowling - Harry Potter and the Order of the Phoenix (2/2)
+978068 - Jane Austen - Pride and Prejudice (2/2)
+980659 - Margaret Mitchell - Gone with the Wind (1/1)
+978044 - Suzanne Collins - The Hunger Games (1/1)
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  978045 - George Orwell - Animal Farm (1/1)
+978006 - Harper Lee - To Kill a Mockingbird (2/2)
+987806 - J.K. Rowling - Harry Potter and the Order of the Phoenix (2/2)
+978068 - Jane Austen - Pride and Prejudice (1/2)
+980659 - Margaret Mitchell - Gone with the Wind (1/1)
+978044 - Suzanne Collins - The Hunger Games (1/1)
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  978045 - George Orwell - Animal Farm (1/1)
+978006 - Harper Lee - To Kill a Mockingbird (2/2)
+987806 - J.K. Rowling - Harry Potter and the Order of the Phoenix (2/2)
+978068 - Jane Austen - Pride and Prejudice (2/2)
+980659 - Margaret Mitchell - Gone with the Wind (1/1)
+978044 - Suzanne Collins - The Hunger Games (1/1)
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Bye

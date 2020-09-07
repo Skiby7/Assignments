@@ -1,0 +1,532 @@
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 2 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 1 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  982621 - A.A. Milne - Winnie-the-Pooh (2/2)
+984069 - Agatha Christie - And Then There Were None (3/3)
+978093 - Alan Moore - Watchmen (5/5)
+982694 - Albert Camus - The Stranger (4/4)
+987272 - Aldous Huxley - Brave New World (1/1)
+980285 - Alexandre Dumas - The Count of Monte Cristo (3/3)
+982152 - Alexandre Dumas - The Three Musketeers (0/2)
+989111 - Alice Sebold - The Lovely Bones (3/3)
+987337 - Alice Walker - The Color Purple (2/2)
+982799 - Amy Tan - The Joy Luck Club (4/4)
+986347 - Anita Diamant - The Red Tent (3/3)
+983148 - Anne Rice - Interview with the Vampire (2/2)
+987497 - Anthony Burgess - A Clockwork Orange (1/1)
+978019 - Arthur Conan Doyle - The Adventures of Sherlock Holmes (3/3)
+978074 - Arthur Golden - Memoirs of a Geisha (3/3)
+987299 - Audrey Niffenegger - The Time Traveler's Wife (4/4)
+980582 - Ayn Rand - Atlas Shrugged (4/4)
+987704 - Barbara Kingsolver - The Poisonwood Bible (2/2)
+988172 - Betty  Smith - A Tree Grows in Brooklyn (3/3)
+978039 - Bram Stoker - Dracula (3/3)
+978007 - C.S. Lewis - The Chronicles of Narnia (4/4)
+978142 - Cassandra Clare - City of Bones (3/3)
+985159 - Cassandra Clare - Clockwork Angel (4/4)
+978141 - Cassandra Clare - Clockwork Princess (5/5)
+986712 - Charles Dickens - A Tale of Two Cities (4/4)
+988120 - Charles Dickens - David Copperfield (4/4)
+983947 - Charles Dickens - Great Expectations (3/3)
+984430 - Charles Dickens - Oliver Twist (3/3)
+980881 - Christopher Paolini - Eragon (4/4)
+981257 - Chuck Palahniuk - Fight Club (2/2)
+986987 - Colleen McCullough - The Thorn Birds (5/5)
+987277 - Cormac McCarthy - The Road (2/2)
+978031 - Dan Brown - The Da Vinci Code (5/5)
+978016 - Daniel Keyes - Flowers for Algernon (4/4)
+984116 - Dante Alighieri - The Divine Comedy (4/4)
+988619 - Daphne du Maurier - Rebecca (3/3)
+983839 - Diana Gabaldon - Outlander (4/4)
+982216 - Douglas Adams - The Hitchhiker's Guide to the Galaxy (4/4)
+983214 - Douglas Adams - The Ultimate Hitchhiker's Guide to the Galaxy (4/4)
+988019 - Dr. Seuss - Green Eggs and Ham (2/2)
+985799 - Dr. Seuss - The Cat in the Hat (4/4)
+988565 - Dr. Seuss - The Lorax (4/4)
+987348 - E.B. White - Charlotte's Web (4/4)
+978161 - E.L. James - Fifty Shades of Grey (2/2)
+980975 - Edgar Allan Poe - The Complete Stories and Poems (3/3)
+978024 - Eric Carle - The Very Hungry Caterpillar (2/2)
+983390 - Erich Maria Remarque - All Quiet on the Western Front (3/3)
+987344 - Ernest Hemingway - A Farewell to Arms (3/3)
+982655 - Ernest Hemingway - The Old Man and the Sea (5/5)
+983514 - Ernest Hemingway - The Sun Also Rises (4/4)
+985936 - F. Scott Fitzgerald - The Great Gatsby (4/4)
+989648 - Frances Hodgson Burnett - A Little Princess (2/2)
+978052 - Frances Hodgson Burnett - The Secret Garden (4/4)
+978034 - Frank Herbert - Dune (3/3)
+978001 - Frank McCourt - Angela's Ashes (3/3)
+985218 - Franz Kafka - The Metamorphosis (3/3)
+985314 - Fyodor Dostoyevsky - Crime and Punishment (4/4)
+978037 - Fyodor Dostoyevsky - The Brothers Karamazov (3/3)
+986573 - Geoffrey Chaucer - The Canterbury Tales (3/3)
+989703 - George Orwell - 1984 (4/4)
+978045 - George Orwell - Animal Farm (3/3)
+978055 - George R.R. Martin - A Game of Thrones (1/1)
+985214 - George R.R. Martin - A Storm of Swords (2/2)
+984416 - Gregory Maguire - Wicked: The Life and Times of the Wicked Witch of the West (3/3)
+980771 - Gustave Flaubert - Madame Bovary (1/1)
+978006 - Harper Lee - To Kill a Mockingbird (3/3)
+985478 - Hermann Hesse - Siddhartha (2/2)
+982102 - Homer - The Odyssey (1/1)
+986674 - Ian McEwan - Atonement (4/4)
+981409 - J.D. Salinger - The Catcher in the Rye (3/3)
+981927 - J.K. Rowling - Harry Potter and the Chamber of Secrets (2/2)
+986203 - J.K. Rowling - Harry Potter and the Deathly Hallows (5/5)
+982125 - J.K. Rowling - Harry Potter and the Goblet of Fire (5/5)
+985485 - J.K. Rowling - Harry Potter and the Half-Blood Prince (4/4)
+987806 - J.K. Rowling - Harry Potter and the Order of the Phoenix (3/3)
+988047 - J.K. Rowling - Harry Potter and the Prisoner of Azkaban (4/4)
+989759 - J.K. Rowling - Harry Potter and the Sorcerer's Stone (3/3)
+984526 - J.M. Barrie - Peter Pan (3/3)
+978035 - J.R.R. Tolkien - J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings (4/4)
+978062 - J.R.R. Tolkien - The Fellowship of the Ring (3/3)
+989424 - J.R.R. Tolkien - The Hobbit (2/2)
+983572 - J.R.R. Tolkien - The Silmarillion (2/2)
+988168 - Jack Kerouac - On the Road (3/3)
+981462 - Jack London - The Call of the Wild (2/2)
+980798 - James Dashner - The Maze Runner (3/3)
+981107 - James Joyce - Ulysses (2/2)
+978068 - Jane Austen - Pride and Prejudice (3/3)
+980702 - Jane Carruth - Alice in Wonderland (3/3)
+984571 - Jay Asher - Thirteen Reasons Why (3/3)
+981919 - Jean M. Auel - The Clan of the Cave Bear (5/5)
+985358 - Jeffrey Eugenides - Middlesex (3/3)
+982796 - Jodi Picoult - My Sister's Keeper (3/3)
+985134 - John Boyne - The Boy in the Striped Pajamas (5/5)
+988912 - John Green - Looking for Alaska (3/3)
+978053 - John Green - The Fault in Our Stars (3/3)
+983263 - John Irving - A Prayer for Owen Meany (3/3)
+989056 - John Irving - The World According to Garp (1/1)
+978080 - John Kennedy Toole - A Confederacy of Dunces (3/3)
+985487 - John Steinbeck - Of Mice and Men (1/1)
+984556 - Jonathan Safran Foer - Extremely Loud and Incredibly Close (3/3)
+978189 - Joseph Conrad - Heart of Darkness (4/4)
+981047 - Joseph Heller - Catch-22 (4/4)
+978000 - Kahlil Gibran - The Prophet (2/2)
+982272 - Katherine Paterson - Bridge to Terabithia (4/4)
+978040 - Kathryn Stockett - The Help (3/3)
+982167 - Ken Follett - The Pillars of the Earth (3/3)
+985923 - Ken Kesey - One Flew Over the Cuckoo's Nest (4/4)
+978159 - Khaled Hosseini - A Thousand Splendid Suns (3/3)
+989381 - Khaled Hosseini - The Kite Runner (4/4)
+981897 - Ki Longfellow - The Secret Magdalene (2/2)
+985554 - Kurt Vonnegut - Slaughterhouse-Five (4/4)
+987963 - L. Frank Baum - The Wonderful Wizard of Oz (3/3)
+984134 - L.M. Montgomery - Anne of Green Gables (3/3)
+987691 - Larry McMurtry - Lonesome Dove (3/3)
+984869 - Laura Ingalls Wilder - The Little House Collection (2/2)
+985580 - Lauren Kate - Fallen (4/4)
+984601 - Leo Tolstoy - Anna Karenina (4/4)
+982257 - Lewis Carroll - Alice's Adventures in Wonderland & Through the Looking-Glass (3/3)
+985683 - Lois Lowry - The Giver (1/1)
+984077 - Louis Sachar - Holes (3/3)
+986343 - Louisa May Alcott - Little Women (2/2)
+986638 - Madeleine L'Engle - A Wrinkle in Time (2/2)
+988764 - Margaret Atwood - The Handmaid's Tale (1/1)
+980659 - Margaret Mitchell - Gone with the Wind (3/3)
+989041 - Margery Williams Bianco - The Velveteen Rabbit (2/2)
+988493 - Mario Puzo - The Godfather (3/3)
+986521 - Marion Zimmer Bradley - The Mists of Avalon (3/3)
+978140 - Mark Haddon - The Curious Incident of the Dog in the Night-Time (1/1)
+984281 - Mark Twain - The Adventures of Huckleberry Finn (2/2)
+982498 - Mark Twain - The Adventures of Tom Sawyer (4/4)
+978038 - Markus Zusak - The Book Thief (4/4)
+980406 - Mary Wollstonecraft Shelley - Frankenstein (1/1)
+978010 - Maurice Sendak - Where the Wild Things Are (4/4)
+986212 - Michael Crichton - Jurassic Park (2/2)
+986580 - Michael Ende - The Neverending Story (3/3)
+980778 - Miguel de Cervantes Saavedra - Don Quixote (4/4)
+989540 - Mikhail Bulgakov - The Master and Margarita (3/3)
+978057 - Milan Kundera - The Unbearable Lightness of Being (2/2)
+986939 - Mitch Albom - The Five People You Meet in Heaven (4/4)
+978075 - Mitch Albom - Tuesdays with Morrie (6/6)
+987551 - Nathaniel Hawthorne - The Scarlet Letter (3/3)
+987870 - Neil Gaiman - American Gods (2/2)
+989186 - Nicholas Sparks - A Walk to Remember (3/3)
+981829 - Nicholas Sparks - The Notebook (5/5)
+981830 - Norton Juster - The Phantom Tollbooth (3/3)
+978081 - Orson Scott Card - Ender's Game (4/4)
+978158 - Oscar Wilde - The Importance of Being Earnest (4/4)
+983806 - Oscar Wilde - The Picture of Dorian Gray (2/2)
+978076 - Patrick Rothfuss - The Name of the Wind (4/4)
+984217 - Paulo Coelho - The Alchemist (1/1)
+982614 - Pearl S. Buck - The Good Earth (3/3)
+989696 - Philip Pullman - His Dark Materials (3/3)
+988516 - Philip Pullman - The Golden Compass (2/2)
+982679 - Philippa Gregory - The Other Boleyn Girl (3/3)
+981849 - Ray Bradbury - Fahrenheit 451 (1/1)
+988871 - Richard  Adams - Watership Down (3/3)
+982807 - Richard Bach - Jonathan Livingston Seagull (1/1)
+982874 - Richelle Mead - Blood Promise (2/2)
+982779 - Richelle Mead - Frostbite (1/1)
+985391 - Richelle Mead - Last Sacrifice (5/5)
+978160 - Richelle Mead - Shadow Kiss (2/2)
+989679 - Richelle Mead - Spirit Bound (2/2)
+982697 - Richelle Mead - Vampire Academy (4/4)
+983037 - Rick Riordan - The Battle of the Labyrinth (3/3)
+986160 - Rick Riordan - The Last Olympian (2/2)
+978079 - Rick Riordan - The Lightning Thief (1/1)
+986002 - Rick Riordan - The Sea of Monsters (4/4)
+980527 - Rick Riordan - The Titan's Curse (1/1)
+988972 - Roald Dahl - Charlie and the Chocolate Factory (5/5)
+983542 - Roald Dahl - Matilda (1/1)
+982944 - Robert Louis Stevenson - Treasure Island (4/4)
+981220 - S.E. Hinton - The Outsiders (3/3)
+978157 - Sara Gruen - Water for Elephants (3/3)
+985698 - Shel Silverstein - The Giving Tree (3/3)
+978067 - Stephen Chbosky - The Perks of Being a Wallflower (2/2)
+987912 - Stephen King - It (3/3)
+985635 - Stephen King - The Shining (3/3)
+982604 - Stephen King - The Stand (1/1)
+978032 - Stephenie Meyer - Twilight (2/2)
+989081 - Stieg Larsson - The Girl Who Played with Fire (3/3)
+988587 - Stieg Larsson - The Girl with the Dragon Tattoo (3/3)
+980192 - Sue Monk Kidd - The Secret Life of Bees (4/4)
+978044 - Suzanne Collins - The Hunger Games (5/5)
+980364 - Suzanne Collins - The Hunger Games Trilogy Boxset (1/1)
+988247 - Sylvia Plath - The Bell Jar (2/2)
+986516 - Thomas Hardy - Tess of the D'Urbervilles (3/3)
+985536 - Thomas Keneally - Schindler's List (4/4)
+989422 - Toni Morrison - Beloved (1/1)
+989769 - Truman Capote - In Cold Blood (1/1)
+985982 - Umberto Eco - The Name of the Rose (3/3)
+984683 - Veronica Roth - Divergent (3/3)
+982582 - Veronica Roth - Insurgent (3/3)
+980558 - Vladimir Nabokov - Lolita (3/3)
+978014 - William Golding - Lord of the Flies (3/3)
+981095 - William Goldman - The Princess Bride (4/4)
+989222 - William Shakespeare - A Midsummer Night's Dream (2/2)
+983283 - William Shakespeare - Romeo and Juliet (2/2)
+983164 - Wilson Rawls - Where the Red Fern Grows (2/2)
+978077 - Yann Martel - Life of Pi (2/2)
+988969 - Zora Neale Hurston - Their Eyes Were Watching God (5/5)
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: Non ci sono copie disponibili del libro richiesto.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Non ci sono copie disponibili del libro richiesto.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: Non ci sono copie disponibili del libro richiesto.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 1 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Operazione completata.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Errore. Scelta non valida.
+Inserire nome autore: Inserire titolo: 2 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  982621 - A.A. Milne - Winnie-the-Pooh (2/2)
+984069 - Agatha Christie - And Then There Were None (3/3)
+978093 - Alan Moore - Watchmen (5/5)
+982694 - Albert Camus - The Stranger (4/4)
+987272 - Aldous Huxley - Brave New World (1/1)
+980285 - Alexandre Dumas - The Count of Monte Cristo (3/3)
+982152 - Alexandre Dumas - The Three Musketeers (2/2)
+989111 - Alice Sebold - The Lovely Bones (3/3)
+987337 - Alice Walker - The Color Purple (2/2)
+982799 - Amy Tan - The Joy Luck Club (4/4)
+986347 - Anita Diamant - The Red Tent (3/3)
+983148 - Anne Rice - Interview with the Vampire (2/2)
+987497 - Anthony Burgess - A Clockwork Orange (1/1)
+978019 - Arthur Conan Doyle - The Adventures of Sherlock Holmes (3/3)
+978074 - Arthur Golden - Memoirs of a Geisha (3/3)
+987299 - Audrey Niffenegger - The Time Traveler's Wife (4/4)
+980582 - Ayn Rand - Atlas Shrugged (4/4)
+987704 - Barbara Kingsolver - The Poisonwood Bible (2/2)
+988172 - Betty  Smith - A Tree Grows in Brooklyn (3/3)
+978039 - Bram Stoker - Dracula (3/3)
+978007 - C.S. Lewis - The Chronicles of Narnia (4/4)
+978142 - Cassandra Clare - City of Bones (3/3)
+985159 - Cassandra Clare - Clockwork Angel (4/4)
+978141 - Cassandra Clare - Clockwork Princess (5/5)
+986712 - Charles Dickens - A Tale of Two Cities (4/4)
+988120 - Charles Dickens - David Copperfield (4/4)
+983947 - Charles Dickens - Great Expectations (3/3)
+984430 - Charles Dickens - Oliver Twist (3/3)
+980881 - Christopher Paolini - Eragon (4/4)
+981257 - Chuck Palahniuk - Fight Club (2/2)
+986987 - Colleen McCullough - The Thorn Birds (5/5)
+987277 - Cormac McCarthy - The Road (2/2)
+978031 - Dan Brown - The Da Vinci Code (5/5)
+978016 - Daniel Keyes - Flowers for Algernon (4/4)
+984116 - Dante Alighieri - The Divine Comedy (4/4)
+988619 - Daphne du Maurier - Rebecca (3/3)
+983839 - Diana Gabaldon - Outlander (4/4)
+982216 - Douglas Adams - The Hitchhiker's Guide to the Galaxy (4/4)
+983214 - Douglas Adams - The Ultimate Hitchhiker's Guide to the Galaxy (4/4)
+988019 - Dr. Seuss - Green Eggs and Ham (2/2)
+985799 - Dr. Seuss - The Cat in the Hat (4/4)
+988565 - Dr. Seuss - The Lorax (4/4)
+987348 - E.B. White - Charlotte's Web (4/4)
+978161 - E.L. James - Fifty Shades of Grey (2/2)
+980975 - Edgar Allan Poe - The Complete Stories and Poems (3/3)
+978024 - Eric Carle - The Very Hungry Caterpillar (2/2)
+983390 - Erich Maria Remarque - All Quiet on the Western Front (3/3)
+987344 - Ernest Hemingway - A Farewell to Arms (3/3)
+982655 - Ernest Hemingway - The Old Man and the Sea (5/5)
+983514 - Ernest Hemingway - The Sun Also Rises (4/4)
+985936 - F. Scott Fitzgerald - The Great Gatsby (4/4)
+989648 - Frances Hodgson Burnett - A Little Princess (2/2)
+978052 - Frances Hodgson Burnett - The Secret Garden (4/4)
+978034 - Frank Herbert - Dune (3/3)
+978001 - Frank McCourt - Angela's Ashes (3/3)
+985218 - Franz Kafka - The Metamorphosis (3/3)
+985314 - Fyodor Dostoyevsky - Crime and Punishment (4/4)
+978037 - Fyodor Dostoyevsky - The Brothers Karamazov (3/3)
+986573 - Geoffrey Chaucer - The Canterbury Tales (3/3)
+989703 - George Orwell - 1984 (4/4)
+978045 - George Orwell - Animal Farm (3/3)
+978055 - George R.R. Martin - A Game of Thrones (1/1)
+985214 - George R.R. Martin - A Storm of Swords (2/2)
+984416 - Gregory Maguire - Wicked: The Life and Times of the Wicked Witch of the West (3/3)
+980771 - Gustave Flaubert - Madame Bovary (1/1)
+978006 - Harper Lee - To Kill a Mockingbird (3/3)
+985478 - Hermann Hesse - Siddhartha (2/2)
+982102 - Homer - The Odyssey (1/1)
+986674 - Ian McEwan - Atonement (4/4)
+981409 - J.D. Salinger - The Catcher in the Rye (3/3)
+981927 - J.K. Rowling - Harry Potter and the Chamber of Secrets (2/2)
+986203 - J.K. Rowling - Harry Potter and the Deathly Hallows (5/5)
+982125 - J.K. Rowling - Harry Potter and the Goblet of Fire (5/5)
+985485 - J.K. Rowling - Harry Potter and the Half-Blood Prince (4/4)
+987806 - J.K. Rowling - Harry Potter and the Order of the Phoenix (3/3)
+988047 - J.K. Rowling - Harry Potter and the Prisoner of Azkaban (4/4)
+989759 - J.K. Rowling - Harry Potter and the Sorcerer's Stone (3/3)
+984526 - J.M. Barrie - Peter Pan (3/3)
+978035 - J.R.R. Tolkien - J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings (4/4)
+978062 - J.R.R. Tolkien - The Fellowship of the Ring (3/3)
+989424 - J.R.R. Tolkien - The Hobbit (2/2)
+983572 - J.R.R. Tolkien - The Silmarillion (2/2)
+988168 - Jack Kerouac - On the Road (3/3)
+981462 - Jack London - The Call of the Wild (2/2)
+980798 - James Dashner - The Maze Runner (3/3)
+981107 - James Joyce - Ulysses (2/2)
+978068 - Jane Austen - Pride and Prejudice (3/3)
+980702 - Jane Carruth - Alice in Wonderland (3/3)
+984571 - Jay Asher - Thirteen Reasons Why (3/3)
+981919 - Jean M. Auel - The Clan of the Cave Bear (5/5)
+985358 - Jeffrey Eugenides - Middlesex (3/3)
+982796 - Jodi Picoult - My Sister's Keeper (3/3)
+985134 - John Boyne - The Boy in the Striped Pajamas (5/5)
+988912 - John Green - Looking for Alaska (3/3)
+978053 - John Green - The Fault in Our Stars (3/3)
+983263 - John Irving - A Prayer for Owen Meany (3/3)
+989056 - John Irving - The World According to Garp (1/1)
+978080 - John Kennedy Toole - A Confederacy of Dunces (3/3)
+985487 - John Steinbeck - Of Mice and Men (1/1)
+984556 - Jonathan Safran Foer - Extremely Loud and Incredibly Close (3/3)
+978189 - Joseph Conrad - Heart of Darkness (4/4)
+981047 - Joseph Heller - Catch-22 (4/4)
+978000 - Kahlil Gibran - The Prophet (2/2)
+982272 - Katherine Paterson - Bridge to Terabithia (4/4)
+978040 - Kathryn Stockett - The Help (3/3)
+982167 - Ken Follett - The Pillars of the Earth (3/3)
+985923 - Ken Kesey - One Flew Over the Cuckoo's Nest (4/4)
+978159 - Khaled Hosseini - A Thousand Splendid Suns (3/3)
+989381 - Khaled Hosseini - The Kite Runner (4/4)
+981897 - Ki Longfellow - The Secret Magdalene (2/2)
+985554 - Kurt Vonnegut - Slaughterhouse-Five (4/4)
+987963 - L. Frank Baum - The Wonderful Wizard of Oz (3/3)
+984134 - L.M. Montgomery - Anne of Green Gables (3/3)
+987691 - Larry McMurtry - Lonesome Dove (3/3)
+984869 - Laura Ingalls Wilder - The Little House Collection (2/2)
+985580 - Lauren Kate - Fallen (4/4)
+984601 - Leo Tolstoy - Anna Karenina (4/4)
+982257 - Lewis Carroll - Alice's Adventures in Wonderland & Through the Looking-Glass (3/3)
+985683 - Lois Lowry - The Giver (1/1)
+984077 - Louis Sachar - Holes (3/3)
+986343 - Louisa May Alcott - Little Women (2/2)
+986638 - Madeleine L'Engle - A Wrinkle in Time (2/2)
+988764 - Margaret Atwood - The Handmaid's Tale (1/1)
+980659 - Margaret Mitchell - Gone with the Wind (3/3)
+989041 - Margery Williams Bianco - The Velveteen Rabbit (2/2)
+988493 - Mario Puzo - The Godfather (3/3)
+986521 - Marion Zimmer Bradley - The Mists of Avalon (3/3)
+978140 - Mark Haddon - The Curious Incident of the Dog in the Night-Time (1/1)
+984281 - Mark Twain - The Adventures of Huckleberry Finn (2/2)
+982498 - Mark Twain - The Adventures of Tom Sawyer (4/4)
+978038 - Markus Zusak - The Book Thief (4/4)
+980406 - Mary Wollstonecraft Shelley - Frankenstein (1/1)
+978010 - Maurice Sendak - Where the Wild Things Are (4/4)
+986212 - Michael Crichton - Jurassic Park (2/2)
+986580 - Michael Ende - The Neverending Story (3/3)
+980778 - Miguel de Cervantes Saavedra - Don Quixote (4/4)
+989540 - Mikhail Bulgakov - The Master and Margarita (3/3)
+978057 - Milan Kundera - The Unbearable Lightness of Being (2/2)
+986939 - Mitch Albom - The Five People You Meet in Heaven (4/4)
+978075 - Mitch Albom - Tuesdays with Morrie (6/6)
+987551 - Nathaniel Hawthorne - The Scarlet Letter (3/3)
+987870 - Neil Gaiman - American Gods (2/2)
+989186 - Nicholas Sparks - A Walk to Remember (3/3)
+981829 - Nicholas Sparks - The Notebook (5/5)
+981830 - Norton Juster - The Phantom Tollbooth (3/3)
+978081 - Orson Scott Card - Ender's Game (4/4)
+978158 - Oscar Wilde - The Importance of Being Earnest (4/4)
+983806 - Oscar Wilde - The Picture of Dorian Gray (2/2)
+978076 - Patrick Rothfuss - The Name of the Wind (4/4)
+984217 - Paulo Coelho - The Alchemist (1/1)
+982614 - Pearl S. Buck - The Good Earth (3/3)
+989696 - Philip Pullman - His Dark Materials (3/3)
+988516 - Philip Pullman - The Golden Compass (2/2)
+982679 - Philippa Gregory - The Other Boleyn Girl (3/3)
+981849 - Ray Bradbury - Fahrenheit 451 (1/1)
+988871 - Richard  Adams - Watership Down (3/3)
+982807 - Richard Bach - Jonathan Livingston Seagull (1/1)
+982874 - Richelle Mead - Blood Promise (2/2)
+982779 - Richelle Mead - Frostbite (1/1)
+985391 - Richelle Mead - Last Sacrifice (5/5)
+978160 - Richelle Mead - Shadow Kiss (2/2)
+989679 - Richelle Mead - Spirit Bound (2/2)
+982697 - Richelle Mead - Vampire Academy (4/4)
+983037 - Rick Riordan - The Battle of the Labyrinth (3/3)
+986160 - Rick Riordan - The Last Olympian (2/2)
+978079 - Rick Riordan - The Lightning Thief (1/1)
+986002 - Rick Riordan - The Sea of Monsters (4/4)
+980527 - Rick Riordan - The Titan's Curse (1/1)
+988972 - Roald Dahl - Charlie and the Chocolate Factory (5/5)
+983542 - Roald Dahl - Matilda (1/1)
+982944 - Robert Louis Stevenson - Treasure Island (4/4)
+981220 - S.E. Hinton - The Outsiders (3/3)
+978157 - Sara Gruen - Water for Elephants (3/3)
+985698 - Shel Silverstein - The Giving Tree (3/3)
+978067 - Stephen Chbosky - The Perks of Being a Wallflower (2/2)
+987912 - Stephen King - It (3/3)
+985635 - Stephen King - The Shining (3/3)
+982604 - Stephen King - The Stand (1/1)
+978032 - Stephenie Meyer - Twilight (2/2)
+989081 - Stieg Larsson - The Girl Who Played with Fire (3/3)
+988587 - Stieg Larsson - The Girl with the Dragon Tattoo (3/3)
+980192 - Sue Monk Kidd - The Secret Life of Bees (4/4)
+978044 - Suzanne Collins - The Hunger Games (5/5)
+980364 - Suzanne Collins - The Hunger Games Trilogy Boxset (1/1)
+988247 - Sylvia Plath - The Bell Jar (2/2)
+986516 - Thomas Hardy - Tess of the D'Urbervilles (3/3)
+985536 - Thomas Keneally - Schindler's List (4/4)
+989422 - Toni Morrison - Beloved (1/1)
+989769 - Truman Capote - In Cold Blood (1/1)
+985982 - Umberto Eco - The Name of the Rose (3/3)
+984683 - Veronica Roth - Divergent (3/3)
+982582 - Veronica Roth - Insurgent (3/3)
+980558 - Vladimir Nabokov - Lolita (3/3)
+978014 - William Golding - Lord of the Flies (3/3)
+981095 - William Goldman - The Princess Bride (4/4)
+989222 - William Shakespeare - A Midsummer Night's Dream (2/2)
+983283 - William Shakespeare - Romeo and Juliet (2/2)
+983164 - Wilson Rawls - Where the Red Fern Grows (2/2)
+978077 - Yann Martel - Life of Pi (2/2)
+988969 - Zora Neale Hurston - Their Eyes Were Watching God (5/5)
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  ISBN: Non risultano copie in prestito.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 2 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: 2 copie disponibili.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: Libro non trovato.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Inserire nome autore: Inserire titolo: Libro non trovato.
+Scegli un opzione:
+1) Stampa catalogo.
+2) Cerca.
+3) Prestito.
+4) Restituzione.
+5) Esci.
+Scelta:  Bye

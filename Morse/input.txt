@@ -1,0 +1,45 @@
+a:. -
+b:- . . .
+c:- . - .
+d:- . .
+e:.
+f:. . - .
+g:- - .
+h:. . . .
+i:. .
+j:. - - -
+k:- . -
+l:. - . .
+m:- -
+n:- .
+o:- - -
+p:. - - .
+q:- - . -
+r:. - .
+s:. . .
+t:-
+u:. . -
+v:. . . -
+w:. - -
+x:- . . -
+y:- . - -
+z:- - . .
+0:- - - - -
+1:. - - - -
+2:. . - - -
+3:. . . - -
+4:. . . . -
+5:. . . . .
+6:- . . . .
+7:- - . . .
+8:- - - . .
+9:- - - - .
+****
+a casa
+1 abc
+9 a
+a 5 c
+Hey man!
+This is the text to be translated It cannot contain punctuation but only letters and numbers They can be Capitalised
+1 line of input corresponds to one text to be translated
+Lines that contain non-alphanumeric characters % & should not be translated
