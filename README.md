@@ -11,7 +11,7 @@ This Automaton recognizes whether a string belongs to a given language or not. I
 It is a program to manage a library, in particular i implemented theese functions:
 
 1. First the program gets the input from a CSV file containing the author, the title and the ISBN of the books
-2. Shows up a menu that allow to 
+2. Shows up a menu that allows you to 
   * Print the list 
   * Get to lend a book
   * Return a book
